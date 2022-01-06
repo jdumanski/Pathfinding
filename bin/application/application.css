@@ -1,0 +1,19 @@
+
+.node-style{
+	-fx-background-color: white;
+	-fx-border-width: 2 2 2 2;
+	-fx-border-color: lightgrey;
+	-fx-font-size: 8px;
+	-fx-text-fill: white;
+}
+
+.root{
+	-fx-background-color: lightblue;
+}
+
+.button-style{
+	-fx-background-color: rgb(255, 0, 0, 0.7);
+	-fx-font-family: 'Verdana';
+	-fx-font-size: 26;
+	
+}
