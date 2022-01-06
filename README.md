@@ -12,3 +12,9 @@ I am currently continuing to work on it by potentially adding more pathfinding a
 -------------------------------------------
 
 The 6 JAVA files containing the code for this project are within the src/application folder.
+
+-------------------------------------------
+
+Here is an example of what A* looks like when it is run:
+![image](https://user-images.githubusercontent.com/71599296/148455856-da505067-69d4-4bb4-bab3-c78a1635d747.png)
+
